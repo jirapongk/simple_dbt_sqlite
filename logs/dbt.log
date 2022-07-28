@@ -1,0 +1,7 @@
+
+
+============================== 2022-07-28 14:55:07.291834 | 7c7c2725-cc44-40d2-9d69-cc9bf757ec6b ==============================
+14:55:07.291834 [info ] [MainThread]: Running with dbt=1.0.8
+14:55:07.294434 [debug] [MainThread]: running dbt with arguments Namespace(cls=<class 'dbt.task.init.InitTask'>, debug=None, defer=None, event_buffer_size=None, fail_fast=None, log_cache_events=False, log_format=None, partial_parse=None, printer_width=None, profile=None, profiles_dir='/root/.dbt', project_dir=None, project_name='simple_dbt_sqlite', record_timing_info=None, rpc_method=None, send_anonymous_usage_stats=None, single_threaded=False, skip_profile_setup=False, state=None, static_parser=None, target=None, use_colors=None, use_experimental_parser=None, vars='{}', version_check=None, warn_error=None, which='init', write_json=None)
+14:55:07.296437 [debug] [MainThread]: Tracking: do not track
+14:55:07.303033 [debug] [MainThread]: Starter project path: /usr/local/lib/python3.8/site-packages/dbt/include/starter_project
