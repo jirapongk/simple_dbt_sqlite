@@ -35,4 +35,10 @@ models:
   simple_dbt_sqlite:
     # Config indicated by + and applies to all files under models/example/
     example:
-      +materialized: view
+      materialized: view
+    staging:
+      jaffle_shop:
+        materialized: view
+    marts:
+      jaffle_shop:
+        materialized: table
